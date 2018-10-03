@@ -12,3 +12,12 @@ body {
   margin-top: 5px;
   text-align: center;
 }
+
+#navigation-bar{
+ background-color: #FFFFFF;
+ width: 100%;
+ positon: absolute;
+ top: 0px;
+ left: 0px;
+  
+}
