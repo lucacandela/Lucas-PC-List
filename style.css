@@ -17,8 +17,8 @@ body {
 #nav-bar{
  background-color: #FFFFFF;
  width: 100%;
- positon: absolute;
+ positon: fixed;
  top: 0px;
  left: 0px;
-  
+ margin:0px;
 }
